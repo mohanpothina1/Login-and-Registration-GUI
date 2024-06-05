@@ -1,4 +1,0 @@
-Mohan,23,mohan16,Mohan@422
-mohan,23,m123,mohan123
-fa,12,e,da123
-m,12,mb,m123
